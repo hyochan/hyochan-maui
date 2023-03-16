@@ -1,0 +1,32 @@
+﻿<Properties StartupConfiguration="{9AC756ED-6EED-4EFE-9997-0E2F725C8F33}|https">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Shared/NavMenu.razor">
+    <Files>
+      <File FileName="Shared/NavMenu.razor" Line="37" Column="44" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="hyochan.dev" expanded="True">
+            <Node name="hyochan.dev" expanded="True">
+              <Node name="Pages" expanded="True" />
+              <Node name="Shared" expanded="True">
+                <Node name="MainLayout.razor" expanded="True" />
+                <Node name="NavMenu.razor" expanded="True" selected="True" />
+              </Node>
+              <Node name="wwwroot" expanded="True">
+                <Node name="sample-data" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.hyochan.dev PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+</Properties>
